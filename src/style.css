@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+* { 
+  margin: 0;
+  padding: 0;
+}
+.App {
+  background-color: aliceblue;
+  display: flex;
+
+  font-size: 73px;
+}
+.Net {
+  padding: 20px;
+  color: rgb(119, 255, 221);
+}
+.Dq {
+  background-color: blueviolet;
+}
